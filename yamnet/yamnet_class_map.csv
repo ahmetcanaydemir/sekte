@@ -1,0 +1,522 @@
+index,mid,display_name
+0,/m/09x0r,Konuþma
+1,/m/0ytgt,Çocuk konuþma evlat konuþan
+2,/m/01h8n0,Konuþma
+3,/m/02qldy,"Anlatým, monolog"
+4,/m/0261r1,Gevezelik
+5,/m/0brhx,Konuþma sentezleyici
+6,/m/07p6fty,Baðýrmak
+7,/m/07q4ntr,Feryat
+8,/m/07rwj3x,Baðýrtý
+9,/m/07sr1lc,Yell'in
+10,/t/dd00135,Çocuklar baðýrarak
+11,/m/03qc9zr,Baðýran
+12,/m/02rtxlg,Fýsýldayan
+13,/m/01j3sz,Kahkaha
+14,/t/dd00001,Bebek kahkaha
+15,/m/07r660_,Kýkýrdama
+16,/m/07s04w4,Kiþneme
+17,/m/07sq110,Göbek kahkaha
+18,/m/07rgt08,"Chuckle, kýkýrdama"
+19,/m/0463cq4,"Aðlayan, hýçkýrarak"
+20,/t/dd00002,"Bebek aðlama, bebek aðlama"
+21,/m/07qz6j3,Sýzlanma
+22,/m/07qw_06,"Wail, inilti"
+23,/m/07plz5l,Ýç çekmek
+24,/m/015lz1,Þarký söyleme
+25,/m/0l14jd,Koro
+26,/m/01swy6,Yodeling
+27,/m/02bk07,Ýlahi
+28,/m/01c194,Mantra
+29,/t/dd00005,Çocuk þarký
+30,/t/dd00006,Sentetik þarký
+31,/m/06bxc,Rapping
+32,/m/02fxyj,Uðultu
+33,/m/07s2xch,Ýnilti
+34,/m/07r4k75,Homurtu
+35,/m/01w250,Islýklamak
+36,/m/0lyf6,Nefes
+37,/m/07mzm6,Hýrýltý
+38,/m/01d3sd,Horlama
+39,/m/07s0dtb,Nefesi kesilmek
+40,/m/07pyy8b,Solumak
+41,/m/07q0yl5,Homurdanma
+42,/m/01b_21,Öksürük
+43,/m/0dl9sf8,Boðaz temizleme
+44,/m/01hsr_,Sneeze
+45,/m/07ppn3j,Koklamak
+46,/m/06h7j,Çalýþtýrmak
+47,/m/07qv_x_,Karýþtýr
+48,/m/07pbtc8,Walk ayak sesleri
+49,/m/03cczk,"Çiðneme, çiðneme"
+50,/m/07pdhp0,Isýrma
+51,/m/0939n_,Gargara
+52,/m/01g90h,Mide gümbürtü
+53,/m/03q5_w,"Geðirme, geðirme"
+54,/m/02p3nc,Hýçkýrýk
+55,/m/02_nn,Osuruk
+56,/m/0k65p,Eller
+57,/m/025_jnm,Parmak yaslama
+58,/m/0l15bq,Zýrýltý
+59,/m/01jg02,"Kalp sesleri, kalp atýþý"
+60,/m/01jg1z,Kalp üfürümü
+61,/m/053hz1,Tezahürat
+62,/m/028ght,Alkýþ
+63,/m/07rkbfh,Gevezelik
+64,/m/03qtwd,Kalabalýk
+65,/m/07qfr4h,"Velvele, konuþma gürültü, konuþma gevezelik"
+66,/t/dd00013,Çocuk oyun
+67,/m/0jbk,Hayvan
+68,/m/068hy,Evcil hayvanlar
+69,/m/0bt9lr,Köpek
+70,/m/05tny_,Baðýrmak
+71,/m/07r_k2n,Viyaklama
+72,/m/07qf0zm,Uluma
+73,/m/07rc7d9,Hav hav
+74,/m/0ghcn6,Hýrýltý
+75,/t/dd00136,Whimper (köpek)
+76,/m/01yrx,Kedi
+77,/m/02yds9,Mýrlamak
+78,/m/07qrkrw,Miyav
+79,/m/07rjwbb,Týslama
+80,/m/07r81j2,Azgýn kedi sesi
+81,/m/0ch8v,"Hayvancýlýk, çiftlik hayvanlarý, çalýþtýrýlan hayvanlar"
+82,/m/03k3r,At
+83,/m/07rv9rh,Klip-clop
+84,/m/07q5rw0,"Neigh, kisner"
+85,/m/01xq0k1,"Sýðýr, sýðýrlar"
+86,/m/07rpkh9,Böðürme
+87,/m/0239kh,Cowbell
+88,/m/068zj,Domuz
+89,/t/dd00018,Oink
+90,/m/03fwl,Keçi
+91,/m/07q0h5t,Melemek
+92,/m/07bgp,Koyun
+93,/m/025rv6n,Tavuk
+94,/m/09b5t,"Tavuk, horoz"
+95,/m/07st89h,Gýdaklama
+96,/m/07qn5dc,", Öten horoz-a-doodle-doo"
+97,/m/01rd7k,Türkiye
+98,/m/07svc2k,Silip süpürmek
+99,/m/09ddx,Ördek
+100,/m/07qdb04,Vak
+101,/m/0dbvp,Kaz
+102,/m/07qwf61,Korna sesi
+103,/m/01280g,Yabani hayvanlar
+104,/m/0cdnk,"Gürleyen kediler (aslanlar, kaplanlar)"
+105,/m/04cvmfc,Kükreme
+106,/m/015p6,Kuþ
+107,/m/020bb7,"Kuþ seslendirme, kuþ çaðrý, kuþ þarký"
+108,/m/07pggtn,"Cik, cik"
+109,/m/07sx8x_,Þikâyet
+110,/m/0h0rv,"Güvercin, kumru"
+111,/m/07r_25d,Mýrýldanmak
+112,/m/04s8yn,Karga
+113,/m/07r5c2p,Gak
+114,/m/09d5_,Baykuþ
+115,/m/07r_80w,Yuh
+116,/m/05_wcq,"Kuþ uçuþu, çýrparak kanatlarý"
+117,/m/01z5f,"Canidae, köpekler, kurtlar"
+118,/m/06hps,"Kemirgenler, sýçan, fare"
+119,/m/04rmv,Fare
+120,/m/07r4gkf,Pýtýrtý
+121,/m/03vt0,Böcek
+122,/m/09xqv,Kriket
+123,/m/09f96,Sivrisinek
+124,/m/0h2mp,"Sinek, karasinek"
+125,/m/07pjwq1,Výzýltý
+126,/m/01h3n,"Arý, arý vb"
+127,/m/09ld4,Kurbaða
+128,/m/07st88b,Gaklamak
+129,/m/078jl,Yýlan
+130,/m/07qn4z3,Çýngýrak
+131,/m/032n05,Balina þarkýsý
+132,/m/04rlf,Müzik
+133,/m/04szw,Müzik aleti
+134,/m/0fx80y,Mýzraplý yaylý çalgý
+135,/m/0342h,Gitar
+136,/m/02sgy,Elektro gitar
+137,/m/018vs,Bas gitar
+138,/m/042v_gx,Akustik gitar
+139,/m/06w87,"Çelik gitar, slayt gitar"
+140,/m/01glhc,Dokunulduðunda (gitar tekniði)
+141,/m/07s0s5r,Kötü çalmak
+142,/m/018j2,Banço
+143,/m/0jtg0,Sitar
+144,/m/04rzd,Mandolin
+145,/m/01bns_,Kanuna benzer bir çalgý
+146,/m/07xzm,Havai kitarasý
+147,/m/05148p4,Klavye (müzikal)
+148,/m/05r5c,Piyano
+149,/m/01s0ps,Elektrikli Piano
+150,/m/013y1f,Organ
+151,/m/03xq_f,Elektronik organý
+152,/m/03gvt,Hammond org
+153,/m/0l14qv,Synthesizer
+154,/m/01v1d8,Örnekleyici
+155,/m/03q5t,Harpsikord
+156,/m/0l14md,Vurmalý
+157,/m/02hnl,Bateri seti
+158,/m/0cfdd,Davul makinesi
+159,/m/026t6,Davul
+160,/m/06rvn,Trampet
+161,/m/03t3fj,Rimshot
+162,/m/02k_mr,Davul sesi
+163,/m/0bm02,Bas davul
+164,/m/011k_j,Timpani
+165,/m/01p970,Tabla
+166,/m/01qbl,Zil
+167,/m/03qtq,Hi-þapka
+168,/m/01sm1g,Kütük
+169,/m/07brj,Tef
+170,/m/05r5wn,Hýrýltý (alet)
+171,/m/0xzly,Maraca
+172,/m/0mbct,Gong
+173,/m/016622,Borulu çan
+174,/m/0j45pbj,Mallet perküsyon
+175,/m/0dwsp,"Marimba, ksilofon"
+176,/m/0dwtp,Glockenspiel
+177,/m/0dwt5,Vibrafon
+178,/m/0l156b,Çelik tava
+179,/m/05pd6,Orkestra
+180,/m/01kcd,Pirinç enstrüman
+181,/m/0319l,Korno
+182,/m/07gql,Trompet
+183,/m/07c6l,Trombon
+184,/m/0l14_3,Telli çalgýlar
+185,/m/02qmj0d,Dize bölüm
+186,/m/07y_7,"Keman, keman"
+187,/m/0d8_n,Pizzicato
+188,/m/01xqw,Çello
+189,/m/02fsn,Kontrbas
+190,/m/085jw,"Rüzgar enstrüman, üflemeli çalgý"
+191,/m/0l14j_,Flüt
+192,/m/06ncr,Saksofon
+193,/m/01wy6,Klarnet
+194,/m/03m5k,Harp
+195,/m/0395lw,Çan
+196,/m/03w41f,Kilise çaný
+197,/m/027m70_,Çan çýnlamasý
+198,/m/0gy1t2s,Bisiklet çan
+199,/m/07n_g,Diyapozon
+200,/m/0f8s22,Melodi
+201,/m/026fgl,Rüzgar çaný
+202,/m/0150b9,Deðiþim zil (campanology)
+203,/m/03qjg,Armonika
+204,/m/0mkg,Akordeon
+205,/m/0192l,Gayda
+206,/m/02bxd,Didgeridoo
+207,/m/0l14l2,Þofar
+208,/m/07kc_,Theremin
+209,/m/0l14t7,Þarký kase
+210,/m/01hgjl,Kazýma (performans tekniði)
+211,/m/064t9,Pop müzik
+212,/m/0glt670,HipHop müzik
+213,/m/02cz_7,Beatbox
+214,/m/06by7,Rock müzik
+215,/m/03lty,Aðýr metal
+216,/m/05r6t,Punk rock
+217,/m/0dls3,Grunge
+218,/m/0dl5d,Ýlerleyen kaya
+219,/m/07sbbz2,Rock
+220,/m/05w3f,Psychedelic Rock
+221,/m/06j6l,Ritim ve Blues
+222,/m/0gywn,Soul müzik
+223,/m/06cqb,Reggae
+224,/m/01lyv,Ülke
+225,/m/015y_n,Salýncak müzik
+226,/m/0gg8l,Bluegrass
+227,/m/02x8m,Korku
+228,/m/02w4v,Halk Müziði
+229,/m/06j64v,Orta Doðu müziði
+230,/m/03_d0,Caz
+231,/m/026z9,Disko
+232,/m/0ggq0m,Klasik müzik
+233,/m/05lls,Opera
+234,/m/02lkt,Elektronik müzik
+235,/m/03mb9,Ev Müziði
+236,/m/07gxw,Techno
+237,/m/07s72n,Dubstep
+238,/m/0283d,Davul ve bas
+239,/m/0m0jc,Electronica
+240,/m/08cyft,Elektronik dans müziði
+241,/m/0fd3y,Ortam müzik
+242,/m/07lnk,Trans müzik
+243,/m/0g293,Latin Amerika'nýn Müzik
+244,/m/0ln16,Salsa müziði
+245,/m/0326g,Flamenko
+246,/m/0155w,Hüzün
+247,/m/05fw6t,Çocuklar için Müzik
+248,/m/02v2lh,New age müzik
+249,/m/0y4f8,Vokal müzik
+250,/m/0z9c,Bir capella
+251,/m/0164x2,Afrika'nýn Müzik
+252,/m/0145m,Afrobeat
+253,/m/02mscn,Hristiyan müziði
+254,/m/016cjb,Kilise müziði
+255,/m/028sqc,Asya'nýn Müzik
+256,/m/015vgc,Karnatik müzik
+257,/m/0dq0md,Bollywood Müzik
+258,/m/06rqw,Ska
+259,/m/02p0sh1,Geleneksel müzik
+260,/m/05rwpb,Baðýmsýz müzik
+261,/m/074ft,Þarký
+262,/m/025td0t,Arka plan müziði
+263,/m/02cjck,Tema müziði
+264,/m/03r5q_,Jingle (müzik)
+265,/m/0l14gg,Film müziði müzik
+266,/m/07pkxdp,Ninni
+267,/m/01z7dr,Video oyun müzik
+268,/m/0140xf,Noel müziði
+269,/m/0ggx5q,Dans müziði
+270,/m/04wptg,Düðün müzik
+271,/t/dd00031,Mutlu müzik
+272,/t/dd00033,Hüzünlü müzik
+273,/t/dd00034,Ýhale müzik
+274,/t/dd00035,Heyecan verici müzik
+275,/t/dd00036,Kýzgýn müzik
+276,/t/dd00037,Korkunç müzik
+277,/m/03m9d0z,Rüzgar
+278,/m/09t49,Sallanan yapraklar
+279,/t/dd00092,Rüzgar gürültüsü (mikrofon)
+280,/m/0jb2l,Saðanak
+281,/m/0ngt1,Gök gürültüsü
+282,/m/0838f,Su
+283,/m/06mb1,Yaðmur
+284,/m/07r10fb,Yaðmur Damlasý
+285,/t/dd00038,Yüzeyde Yaðmur
+286,/m/0j6m2,Akýþ
+287,/m/0j2kx,Þelale
+288,/m/05kq4,Okyanus
+289,/m/034srq,"Dalgalar, sörf"
+290,/m/06wzb,Buhar
+291,/m/07swgks,Gurgling
+292,/m/02_41,Ateþ
+293,/m/07pzfmf,Çatýrtý
+294,/m/07yv9,Araç
+295,/m/019jd,"Tekne, Su taþýt"
+296,/m/0hsrw,"Yelkenli, yelkenli gemi"
+297,/m/056ks2,"Rowboat, kano, kano"
+298,/m/02rlv9,Motorlu Sürat teknesi
+299,/m/06q74,Gemi
+300,/m/012f08,Motorlu araç (yol)
+301,/m/0k4j,Araba
+302,/m/0912c9,"Araç boynuz, araba korna, korna"
+303,/m/07qv_d5,Korna sesi
+304,/m/02mfyn,Araba alarmý
+305,/m/04gxbd,"Elektrikli camlar, elektrikli camlar"
+306,/m/07rknqz,Savrulma
+307,/m/0h9mv,Lastik ispiyon
+308,/t/dd00134,Araba geçerken
+309,/m/0ltv,"Yarýþ araba, otomobil yarýþlarý"
+310,/m/07r04,Kamyon
+311,/m/0gvgw0,Hava freni
+312,/m/05x_td,"Hava boynuz, kamyon korna"
+313,/m/02rhddq,Bip Geri vites
+314,/m/03cl9h,"Dondurma kamyon, dondurma van"
+315,/m/01bjv,Otobüs
+316,/m/03j1ly,Acil araç
+317,/m/04qvtq,Polis arabasý (siren)
+318,/m/012n7d,Cankurtaran (siren)
+319,/m/012ndj,"Yangýn motoru, itfaiye aracý (siren)"
+320,/m/04_sv,Motosiklet
+321,/m/0btp2,"Trafik gürültüsü, karayolu gürültü"
+322,/m/06d_3,Demiryolu taþýmacýlýðý
+323,/m/07jdr,Tren
+324,/m/04zmvq,Tren düdük
+325,/m/0284vy3,Tren kornasý
+326,/m/01g50p,"Demiryolu araba, tren vagonu"
+327,/t/dd00048,Squealing Tren tekerlekler
+328,/m/0195fx,"Metro, metro, yeraltý"
+329,/m/0k5j,Uçaklar
+330,/m/014yck,Uçak motoru
+331,/m/04229,Jet motoru
+332,/m/02l6bg,"Pervane, airscrew"
+333,/m/09ct_,Helikopter
+334,/m/0cmf2,"Sabit kanatlý uçaklar, uçak"
+335,/m/0199g,Bisiklet
+336,/m/06_fw,Kaykay
+337,/m/02mk9,Motor
+338,/t/dd00065,Iþýk motor (yüksek frekans)
+339,/m/08j51y,"Diþ matkap, diþçi matkabý"
+340,/m/01yg9g,Çim biçme makinesi
+341,/m/01j4z9,Elektrikli testere
+342,/t/dd00066,Orta motor (orta frekans)
+343,/t/dd00067,Aðýr motor (düþük frekans)
+344,/m/01h82_,Motor vurma
+345,/t/dd00130,Motor baþlangýç
+346,/m/07pb8fc,Boþta çalýþma
+347,/m/07q2z82,"Hýzlanan, devirli, hýnn"
+348,/m/02dgv,Kapý
+349,/m/03wwcy,Kapý zili
+350,/m/07r67yg,Din don
+351,/m/02y_763,Kayar kapý
+352,/m/07rjzl8,Çarpmak
+353,/m/07r4wb8,Vurmak
+354,/m/07qcpgn,Dokunmak
+355,/m/07q6cd_,Gýcýrtý
+356,/m/0642b4,Dolap açýlýr veya kapanýr
+357,/m/0fqfqc,Açýk veya yakýn Çekmece
+358,/m/04brg2,"Yemekler, tencere, tava"
+359,/m/023pjk,"Çatal, gümüþ"
+360,/m/07pn_8q,Kesme (gýda)
+361,/m/0dxrf,Kýzartma (gýda)
+362,/m/0fx9l,Mikrodalga fýrýn
+363,/m/02pjr4,Karýþtýrýcý
+364,/m/02jz0l,"Su musluk, musluk"
+365,/m/0130jx,Lavabo (dolgu ya da yýkama)
+366,/m/03dnzn,Küvet (dolgu ya da yýkama)
+367,/m/03wvsk,Saç kurutma makinesi
+368,/m/01jt3m,Tuvalet sifonu
+369,/m/012xff,Diþ fýrçasý
+370,/m/04fgwm,Elektrikli diþ fýrçasý
+371,/m/0d31p,Elektrikli süpürge
+372,/m/01s0vc,Fermuar (giyim)
+373,/m/03v3yw,Jangling Tuþlar
+374,/m/0242l,Para (býrakarak)
+375,/m/01lsmm,Makas
+376,/m/02g901,"Elektrikli týraþ makinesi, elektrikli týraþ makinesi"
+377,/m/05rj2,Kartlarýn daðýtýlmasý
+378,/m/0316dw,Yazýyor
+379,/m/0c2wf,Daktilo
+380,/m/01m2v,Bilgisayar klavyesi
+381,/m/081rb,Yazý
+382,/m/07pp_mv,Alarm
+383,/m/07cx4,Telefon
+384,/m/07pp8cl,Telefon zili
+385,/m/01hnzm,Zil
+386,/m/02c8p,"Telefon arama, DTMF"
+387,/m/015jpf,Çevir sesi
+388,/m/01z47d,Meþgul sinyali
+389,/m/046dlr,Alarm saati
+390,/m/03kmc9,Siren
+391,/m/0dgbq,Sivil savunma sireni
+392,/m/030rvx,Buzzer
+393,/m/01y3hg,"Duman detektörü, duman alarmý"
+394,/m/0c3f7m,Yangýn alarmý
+395,/m/04fq5q,Sis düdüðü
+396,/m/0l156k,Islýk
+397,/m/06hck5,Buhar düdük
+398,/t/dd00077,Mekanizmalar
+399,/m/02bm9n,"Ratchet, mandal"
+400,/m/01x3z,Saat
+401,/m/07qjznt,Kene
+402,/m/07qjznl,Tik tak
+403,/m/0l7xg,Gears
+404,/m/05zc1,Kasnaklar
+405,/m/0llzx,Dikiþ makinesi
+406,/m/02x984l,Mekanik faný
+407,/m/025wky1,Klima
+408,/m/024dl,Yazar kasa
+409,/m/01m4t,Yazýcý
+410,/m/0dv5r,Kamera
+411,/m/07bjf,Tek lensli refleks fotoðraf makinesi
+412,/m/07k1x,Araçlar
+413,/m/03l9g,Çekiç
+414,/m/03p19w,Jackhammer
+415,/m/01b82r,Testere
+416,/m/02p01q,Dosyalama (törpü)
+417,/m/023vsd,Zýmpara
+418,/m/0_ksk,Elektrikli aletlerin
+419,/m/01d380,Matkap
+420,/m/014zdl,Patlama
+421,/m/032s66,"Silah atýþý, silah sesleri"
+422,/m/04zjc,Makineli tüfek
+423,/m/02z32qm,Kurþuna dizmek
+424,/m/0_1c,Topçu yangýn
+425,/m/073cg4,Cap tabanca
+426,/m/0g6b5,Havai fiþek
+427,/g/122z_qxw,Fiþek
+428,/m/07qsvvw,"Burst, pop"
+429,/m/07pxg6y,Püskürme
+430,/m/07qqyl4,Boom
+431,/m/083vt,Odun
+432,/m/07pczhz,Pirzola
+433,/m/07pl1bw,Kýymýk
+434,/m/07qs1cx,Çatlak
+435,/m/039jq,Bardak
+436,/m/07q7njn,"Çinli, çýn"
+437,/m/07rn7sz,Kýrmak
+438,/m/04k94,Sývý
+439,/m/07rrlb6,"Sýçrama, sýçramak"
+440,/m/07p6mqd,Sýçratmak
+441,/m/07qlwh6,Ezmek
+442,/m/07r5v4s,Damlama
+443,/m/07prgkl,Dökün
+444,/m/07pqc89,"Damla, damla"
+445,/t/dd00088,Coþma
+446,/m/07p7b8y,Dolgu (sývý) ile
+447,/m/07qlf79,Sprey
+448,/m/07ptzwd,Pompa (sývý)
+449,/m/07ptfmf,Karýþtýrmak
+450,/m/0dv3j,Kaynamak
+451,/m/0790c,Sonar
+452,/m/0dl83,Ok
+453,/m/07rqsjt,"Whoosh, swoosh, swish"
+454,/m/07qnq_y,"Yumruk, güm"
+455,/m/07rrh0c,Thunk
+456,/m/0b_fwt,Elektronik tuner
+457,/m/02rr_,Etkileri birimi
+458,/m/07m2kt,Koro etkisi
+459,/m/018w8,Basketbol sýçrama
+460,/m/07pws3f,Patlama
+461,/m/07ryjzk,"Tokat, tokat"
+462,/m/07rdhzs,"Dövmek, Patlat"
+463,/m/07pjjrj,"Smash, çarpýþma"
+464,/m/07pc8lb,Son Dakika
+465,/m/07pqn27,Zýplayan
+466,/m/07rbp7_,Kýrbaç
+467,/m/07pyf11,Kapak
+468,/m/07qb_dv,Kaþýmak
+469,/m/07qv4k0,Kazýmak
+470,/m/07pdjhy,Ovmak
+471,/m/07s8j8t,Rulo
+472,/m/07plct2,Ezme
+473,/t/dd00112,"Crumpling, crinkling"
+474,/m/07qcx4z,Yýrtýlma
+475,/m/02fs_r,"Bip, bip"
+476,/m/07qwdck,Ping
+477,/m/07phxs1,Ding
+478,/m/07rv4dm,Çýnlama
+479,/m/07s02z0,Ýspiyon
+480,/m/07qh7jl,Gýcýrtý
+481,/m/07qwyj0,Hýþýrtý
+482,/m/07s34ls,Pýrlamak
+483,/m/07qmpdm,Takýrdamak
+484,/m/07p9k1k,Cýzýrtý
+485,/m/07qc9xj,Týklama
+486,/m/07rwm0c,Týklamalarýnýz laklak
+487,/m/07phhsh,Gümbürtü
+488,/m/07qyrcz,Lop
+489,/m/07qfgpx,Jingle çýngýrtý
+490,/m/07rcgpl,Uðultu
+491,/m/07p78v5,Výnlama
+492,/t/dd00121,Sýçrama
+493,/m/07s12q4,Çatýrtý
+494,/m/028v0c,Sessizlik
+495,/m/01v_m0,Sinüs dalgasý
+496,/m/0b9m1,Harmonik
+497,/m/0hdsk,Cik sesi
+498,/m/0c1dj,Ses efekti
+499,/m/07pt_g0,Nabýz
+500,/t/dd00125,"Ýçeride, küçük Oda"
+501,/t/dd00126,"Ýçeride, büyük oda veya salon"
+502,/t/dd00127,"Ýçeride, kamusal alan"
+503,/t/dd00128,"Dýþarýda, kentsel ya da insan yapýmý"
+504,/t/dd00129,"Dýþarý, kýrsal veya doða"
+505,/m/01b9nn,Yanloþamöa
+506,/m/01jnbd,Eko
+507,/m/096m7z,Gürültü
+508,/m/06_y0by,Çevresel gürültü
+509,/m/07rgkc5,Statik
+510,/m/06xkwv,Uðultu
+511,/m/0g12c5,Çarpýtma
+512,/m/08p9q4,Sidetone
+513,/m/07szfh9,Kakofoni
+514,/m/0chx_,Beyaz ses
+515,/m/0cj0r,Pembe gürültü
+516,/m/07p_0gm,Zonklama
+517,/m/01jwx6,Titreþim
+518,/m/07c52,Televizyon
+519,/m/06bz3,Radyo
+520,/m/07hvw1,Alan kaydý
